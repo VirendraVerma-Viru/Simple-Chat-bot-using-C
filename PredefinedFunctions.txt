@@ -1,0 +1,16 @@
+exit
+time
+shutdown
+restart
+
+
+
+
+
+
+
+
+
+
+//turbo support nahi karega , use code block to edit code
+// isme mai '.' sign se sentece ko seperate karta hu, so be carefull while updating any question

@@ -1,0 +1,2 @@
+start basefilr.exe
+exit
